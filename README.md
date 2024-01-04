@@ -1,16 +1,11 @@
 # quiz_app
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+UI Images
+![IMG-20240104-WA0016](https://github.com/Ngigi33/QUIZ_APP/assets/101053582/fac2fe49-b63d-48f1-be03-38539a5a1b33)
+![IMG-20240![IMG-20240104-WA0017](https://github.com/Ngigi33/QUIZ_APP/assets/101053582/8a0c4ec9-6925-430e-9ea8-e82a7d031d91)
+104-WA0015](https://github.com/Ngigi33/QUIZ_APP/assets/101053582/cbc7633a-c22f-4061-b3da-8037b2c7dba8)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IMG-20240104-WA0014](https://github.com/Ngigi33/QUIZ_APP/assets/101053582/5559e18d-f9c0-492b-890e-b533001b3918)
